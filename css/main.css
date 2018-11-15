@@ -109,10 +109,12 @@ header a:hover {
     background-color: #253342;
   }
 
+
   .overlay__image {
       height: 100%;
       width: 100%;
   }
+
 
   .team p {
       margin-bottom: 3.625rem;
