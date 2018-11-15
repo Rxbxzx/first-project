@@ -99,10 +99,19 @@ header a:hover {
     bottom: 0;
     left: 0;
     right: 0;
-    height: 47%;
-    width: 75%;
+    height: 100%;
+    width: 100%;
+    padding-top: .5rem;
+    padding-left: 6.2rem;
+    padding-right: 6.2rem;
     opacity: 0;
     transition: .5s ease;
+    background-color: #253342;
+  }
+
+  .overlay__image {
+      height: 100%;
+      width: 100%;
   }
 
   .team p {
