@@ -8,11 +8,13 @@
 background-color: white;
 }
 
-
 .about img {
-    margin-bottom: 4.8125rem;
-    margin-top: 5.8125rem;
+	height: 30%;
+	width:	80%;
+  margin-bottom: 4.8125rem;
+  margin-top: 5.8125rem;
 }
+
 
 .main-nav {
     border-bottom: solid 1px #253342;
@@ -52,8 +54,10 @@ body {
 }
 
 .card-img-top {
-    margin-top: -8px;
+		margin-top: -8px;
+		
 }
+
 
 header nav a {
     color: yellow;
@@ -75,6 +79,11 @@ header nav li:last-child {
   background-position: center center;  
 }
 
+.hero h1 {
+
+	color: white;
+	
+	}
 
 .hero__image {
 
@@ -107,6 +116,12 @@ header a:hover {
     background-color: #eeeeee;
 }
 
+.portfolio .card-img-top {
+
+	height: 400px;
+	width: 348px;
+
+}
 
 .form-padding {
     padding: 1rem 2rem;
